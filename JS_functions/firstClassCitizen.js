@@ -1,4 +1,4 @@
-// Functions in JS are Fist-Class Objects (Citizens)
+// Functions in JS are First-Class Objects (Citizens)
 // Higher Order Functions
 
 // JS treats functions as Data!!
@@ -27,7 +27,6 @@ obj.falar = function() { return 'opa' }
 console.log(obj.falar())
 
 // Pass function as parameter
-
 function run (fun) {
     fun()
 }

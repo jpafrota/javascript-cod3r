@@ -41,5 +41,6 @@ console.log(
     soma3(1, 2),
     soma3(3),
     soma2(0,0,0),
-    soma3(1, 2, 3)
+    soma3(1, 2, 3),
+    soma3(1, 2, 3, 4)
 )

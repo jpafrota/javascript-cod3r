@@ -16,8 +16,8 @@ for (let i = 0; i <= 10; i++) {
 
 // Iterates every 'slot' of the array, where 'i' is the value inside the indexes.
 const notas = [1.2, 4.5, 6.7, 8.5, , 7.6]
-for (i of notas){
-    console.log(`nota: ${i}`)
+for (nota of notas){
+    console.log(`nota: ${nota}`)
 }
 
 /**
